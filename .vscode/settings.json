@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c09b79cb-b07a-4630-a062-a12116420b59/microsoft.web/sites/subscriptions/c09b79cb-b07a-4630-a062-a12116420b59/resourceGroups/mokeshJaggi_rg_Linux_centralus/providers/Microsoft.Web/sites/salmon-dune-ad084d3dd7df42919c17fb73cefebe69",
+    "appService.deploySubpath": "."
+}
